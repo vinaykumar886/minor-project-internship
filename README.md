@@ -20,7 +20,7 @@ This notebook demonstrates how to:
 | File                     | Description                                     |
 |--------------------------|-------------------------------------------------|
 | `automobile_analysis.ipynb` | Main Jupyter Notebook for the project          |
-| `automobile_data.csv`       | Dataset used in the project                    |
+| `automobile_data(1).csv`       | Dataset used in the project                    |
 | `requirements.txt`          | All required libraries to run the project      |
 
 ---
@@ -38,7 +38,7 @@ This notebook demonstrates how to:
 
 ## 📦 Dataset
 
-The dataset used for this project is `automobile_data.csv`, which includes data like:
+The dataset used for this project is `automobile_data(1).csv`, which includes data like:
 - Make and model
 - Fuel type
 - Engine size
